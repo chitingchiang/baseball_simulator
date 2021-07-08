@@ -1,1 +1,1 @@
-# baseball_simulator
+# Baseball simulator
