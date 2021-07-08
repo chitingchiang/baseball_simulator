@@ -1,3 +1,14 @@
+# list of actions
+
+action_list = [
+    "single",
+    "double",
+    "triple",
+    "homerun",
+    "walk",
+    "out",
+]
+
 # dictionary that maps an action (single, double, triple, homerun, walk)
 # and the current base state to the pair of score and the next base state
 
